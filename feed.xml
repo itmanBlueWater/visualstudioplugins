@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>sonarclient</title>
+  <id>5a7c2525-ddd8-4c44-b2e3-f57ba01a0d81</id>
+  <updated>2019-07-22T03:07:41Z</updated>
+  <subtitle>Add this feed to Visual Studio's extension manager from Tools -&gt; Options -&gt; Environment -&gt; Extensions and Updates</subtitle>
+  <link rel="alternate" href="feed.xml" />
+</feed>
